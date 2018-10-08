@@ -1,6 +1,7 @@
 # Awesome Georgian Talks
 ქართული თოქები.
 ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.  
+
 ##### Software Development
 * [5 Stages](https://www.youtube.com/watch?v=GFim38_ycVE) by **George Mamaladze** [1:23:08]
 * [Basics of Scalable Design](https://www.youtube.com/watch?v=kVlsn-lNz5A) by **George Mamaladze** [1:35:08]
@@ -22,6 +23,13 @@
 ##### Mobile Development
 * [მობილური აპლიკაციები](https://www.youtube.com/watch?v=gv48mbnMDzM) by **Gia Mirianashvili** [1:26:01]
 * [Hybrid Mobile Apps with Ionic Framework](https://www.youtube.com/watch?v=deGGLiCMZLU&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=3) by **Oto Meskhy** [0:59:38]
+
+##### Game Development
+* [Gdevi #4 - Gamedev კონფერენციები და Casual Connect](https://youtu.be/xdjy767KeiM) by **Nika Otiashvili** [0:32:02]
+* [Gdevi #4 - Game AI, Behaviour Trees და GOAP](https://youtu.be/_f5g0boRPwQ) by **Rezo Janjghava** [0:45:33]
+* [Gdevi #5 - Dancing Gameobjects](https://youtu.be/7PnX7id8pRw) by **Giorgi Abelashvili** [0:43:32]
+* [Gdevi #5 - Raycast Rendering](https://youtu.be/wWlUa5JcCUE) by **Nika Otiashvili** [0:29:36]
+* [Gdevi #5 - GameCredit](https://youtu.be/Hmf-9DPfBIA) by **Levan Ilashvili** [0:28:14]
 
 ##### Databases
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
