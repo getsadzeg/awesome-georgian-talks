@@ -9,6 +9,7 @@
 * [MapReduce](https://youtu.be/h_3WzSyxiUA) by **Salome Vakhtangadze** [0:26:28]
 * [.NET](https://www.youtube.com/watch?v=QBJ4IhVH18w) by **Alex Amniashvili,Tamuna Kapanadze,Shota Ioramashvili** [0:55:16]
 * [პროგრამირების ენები](https://www.youtube.com/watch?v=NxZuDglxcM0) by **Sandro Asatiani** [0:44:47]
+* [What we need to know about Event Sourcing](https://www.youtube.com/watch?v=TZ_7Ers8cH0) by **Vano Maisuradze** [1:11:40]
 
 ##### Web Development
 * [Node.JS](https://www.youtube.com/watch?v=GO74oM2Fb4o) by **Ioseb Dzmanashvili** [0:44:34]
@@ -19,6 +20,21 @@
 * [Single responsibility principle and CSS](https://www.youtube.com/watch?v=PEqFo8W21Mc&list=PLSNW1zVmUavZlT_U3gX68RsetvdqO5n8O&index=5) by **Irakli Safareli** [0:42:56]
 * [Preprocessors for rapid development](https://www.youtube.com/watch?v=U26Ljk6ygAo) by **Levan Lotuashvili** [0:17:07]
 * [Back to Basics with Static Websites](https://www.youtube.com/watch?v=E7xYekpAHfY) by **Otar Chekurishvili** [0:34:30]
+
+##### Devops Con
+* [How we run 1000+ servers and 10+ projects](https://www.youtube.com/watch?v=OazgE002u-w) by **Konstantine Karosanidze** [1:05:50]
+* [CI and CD for mobile development](https://www.youtube.com/watch?v=_vtofOe3ejY) by **Mikheil Akopov** [0:41:38]
+* [DevOps for Hybrid Cloud](https://www.youtube.com/watch?v=t473CJFNUks) by **Ioseb Meskhishvili** [0:28:46]
+* [Blockchain vs DevOps](https://www.youtube.com/watch?v=Ep77U8vio4o) by **Vano Narimanidze** [0:39:05]
+* [Singularity in Application Monitoring](https://www.youtube.com/watch?v=koMReo9xb9E) by **Nino Gvazava** [0:21:04]
+* [Linux container internals](https://www.youtube.com/watch?v=VxlCOR-jCkE) by **Ioseb Dzmanashvili** [1:08:54]
+* [Test Automation in Practice](https://www.youtube.com/watch?v=dvpaLkW8g0g) by **Elene Latsoshvili** [0:43:55]
+* [Integration of Jenkins and K8S - Full chain CI/CD](https://www.youtube.com/watch?v=X_0iOBKPSUc) by **Nika Nikabadze** [0:32:52]
+* [DataOps](https://www.youtube.com/watch?v=qFaAwG9Jums) by **Vazha Pirtskhalaishvili and Erekle Magradze** [1:03:45]
+* [Mobilization Done Right](https://www.youtube.com/watch?v=L5o79IqCHM4) by **Irakli Vashakidze** [0:25:34]
+* [DevOps transformation of TBC Bank](https://www.youtube.com/watch?v=840ROtSdUXU) by **Givi Dochviri** [0:31:34]
+* [How we do DevOps at Realtyna](https://www.youtube.com/watch?v=Y-rGueVqtmU) by **Elena Metreveli and Alexandre Vardanidze** [0:15:23]
+* [Katello + Foreman + GitLab](https://www.youtube.com/watch?v=6ZaHj48HVgE) by **Erekle Magradze** [0:21:58]
 
 ##### Mobile Development
 * [მობილური აპლიკაციები](https://www.youtube.com/watch?v=gv48mbnMDzM) by **Gia Mirianashvili** [1:26:01]
@@ -51,6 +67,9 @@
 * ["ხელოვნური ინტელექტი" მეცნიერებისა და ინოვაციების ფესტივალზე](https://www.facebook.com/amigoSmith/videos/vb.1033808908/10209458516273182) by **Paata Gogishvili** [0:53:33]
 * [უკუ გრადიენტის(backpropagation) მეთოდი ნეირონულ ქსელებში](https://www.facebook.com/amigoSmith/videos/10209576561784246/) by **Paata Gogishvili** [1:01:50]
 * [TensorFlow - Deep Learning in Real Life](https://youtu.be/C4qIsTKzBLs) by **Levan Tsinadze** [0:42:29]
+* [ხელოვნური ინტელექტ](https://www.youtube.com/watch?v=AUYkF7dCJG8) by **Paata Gogishvili** [0:55:45]
+* [ნეირონული ქსელები](https://www.youtube.com/watch?v=0hjLG6LLTFc) by **Paata Gogishvili** [0:33:39]
+* [ნეირონული ქსელების მიმოხილვა (neural networks)](https://www.youtube.com/watch?v=jcqLsFQ1k3A) by **Levan Tsinadze** [1:03:40]
 
 ##### Uncategorized
 * [გადარჩი და გაიზარდე](https://youtu.be/HLpeU5VrSX8) by **George Mamaladze** [0:42:27]
