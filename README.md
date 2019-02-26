@@ -1,6 +1,6 @@
 # Awesome Georgian Talks
 ქართული თოქები.
-ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.  
+ეს რეპოზიტორია აერთიანებს ქართულ თოქებს, რომლებიც ნამდვილად ღირს, რომ ნახოთ.
 
 ##### Software Development
 * [5 Stages](https://www.youtube.com/watch?v=GFim38_ycVE) by **George Mamaladze** [1:23:08]
@@ -46,6 +46,13 @@
 * [Gdevi #5 - Dancing Gameobjects](https://youtu.be/7PnX7id8pRw) by **Giorgi Abelashvili** [0:43:32]
 * [Gdevi #5 - Raycast Rendering](https://youtu.be/wWlUa5JcCUE) by **Nika Otiashvili** [0:29:36]
 * [Gdevi #5 - GameCredit](https://youtu.be/Hmf-9DPfBIA) by **Levan Ilashvili** [0:28:14]
+* [Gdevi #7 - Hacktoberfest for Gamedevs](https://youtu.be/T1hKY0VIhkw) - **Nika Otiashvili** [1:00:59]
+* [Gdevi #7 - Space Station 13 - BYOND](https://youtu.be/jYz6SS8QiJE) - **Nika Mchedlidze** [0:19:47]
+* [Gdevi #7 - DigitalDragons, PGA, Venatus](https://youtu.be/srxCra_-1kQ) - **Tornike Andriadze** [0:18:49]
+* [Gdevi #7 - Caucasus Con](https://youtu.be/YPePse_YSzo) - **Dato Kiknavelidze** [0:16:14]
+* [Gdevi #8 - Indiepocalypse](https://youtu.be/lf1YHFEyh1c) - **Nika Otiashvili** [0:56:52]
+* [Gdevi #8 - Modern C++](https://youtu.be/0ROoPusvGeQ) - **Tornike Gomareli** [0:53:56]
+* [Gdevi #8 - Ray Tracing თამაშებში](https://youtu.be/bDQ_0g2rM4Y) - **Irakli Koiava** [1:10:10]
 
 ##### Databases
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
@@ -67,7 +74,7 @@
 * ["ხელოვნური ინტელექტი" მეცნიერებისა და ინოვაციების ფესტივალზე](https://www.facebook.com/amigoSmith/videos/vb.1033808908/10209458516273182) by **Paata Gogishvili** [0:53:33]
 * [უკუ გრადიენტის(backpropagation) მეთოდი ნეირონულ ქსელებში](https://www.facebook.com/amigoSmith/videos/10209576561784246/) by **Paata Gogishvili** [1:01:50]
 * [TensorFlow - Deep Learning in Real Life](https://youtu.be/C4qIsTKzBLs) by **Levan Tsinadze** [0:42:29]
-* [ხელოვნური ინტელექტ](https://www.youtube.com/watch?v=AUYkF7dCJG8) by **Paata Gogishvili** [0:55:45]
+* [ხელოვნური ინტელექტი](https://www.youtube.com/watch?v=AUYkF7dCJG8) by **Paata Gogishvili** [0:55:45]
 * [ნეირონული ქსელები](https://www.youtube.com/watch?v=0hjLG6LLTFc) by **Paata Gogishvili** [0:33:39]
 * [ნეირონული ქსელების მიმოხილვა (neural networks)](https://www.youtube.com/watch?v=jcqLsFQ1k3A) by **Levan Tsinadze** [1:03:40]
 
