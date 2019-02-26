@@ -1,6 +1,6 @@
 # Awesome Georgian Talks
 ქართული თოქები.
-ეს რეპოზიტორია აერთიანებს ქართულ თოქებს,რომლებიც ნამდვილად ღირს,რომ ნახოთ.  
+ეს რეპოზიტორია აერთიანებს ქართულ თოქებს, რომლებიც ნამდვილად ღირს, რომ ნახოთ.
 
 ##### Software Development
 * [5 Stages](https://www.youtube.com/watch?v=GFim38_ycVE) by **George Mamaladze** [1:23:08]
@@ -67,7 +67,7 @@
 * ["ხელოვნური ინტელექტი" მეცნიერებისა და ინოვაციების ფესტივალზე](https://www.facebook.com/amigoSmith/videos/vb.1033808908/10209458516273182) by **Paata Gogishvili** [0:53:33]
 * [უკუ გრადიენტის(backpropagation) მეთოდი ნეირონულ ქსელებში](https://www.facebook.com/amigoSmith/videos/10209576561784246/) by **Paata Gogishvili** [1:01:50]
 * [TensorFlow - Deep Learning in Real Life](https://youtu.be/C4qIsTKzBLs) by **Levan Tsinadze** [0:42:29]
-* [ხელოვნური ინტელექტ](https://www.youtube.com/watch?v=AUYkF7dCJG8) by **Paata Gogishvili** [0:55:45]
+* [ხელოვნური ინტელექტი](https://www.youtube.com/watch?v=AUYkF7dCJG8) by **Paata Gogishvili** [0:55:45]
 * [ნეირონული ქსელები](https://www.youtube.com/watch?v=0hjLG6LLTFc) by **Paata Gogishvili** [0:33:39]
 * [ნეირონული ქსელების მიმოხილვა (neural networks)](https://www.youtube.com/watch?v=jcqLsFQ1k3A) by **Levan Tsinadze** [1:03:40]
 
