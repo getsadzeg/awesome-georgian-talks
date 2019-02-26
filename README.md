@@ -46,6 +46,13 @@
 * [Gdevi #5 - Dancing Gameobjects](https://youtu.be/7PnX7id8pRw) by **Giorgi Abelashvili** [0:43:32]
 * [Gdevi #5 - Raycast Rendering](https://youtu.be/wWlUa5JcCUE) by **Nika Otiashvili** [0:29:36]
 * [Gdevi #5 - GameCredit](https://youtu.be/Hmf-9DPfBIA) by **Levan Ilashvili** [0:28:14]
+* [Gdevi #7 - Hacktoberfest for Gamedevs](https://youtu.be/T1hKY0VIhkw) - **Nika Otiashvili** [1:00:59]
+* [Gdevi #7 - Space Station 13 - BYOND](https://youtu.be/jYz6SS8QiJE) - **Nika Mchedlidze** [0:19:47]
+* [Gdevi #7 - DigitalDragons, PGA, Venatus](https://youtu.be/srxCra_-1kQ) - **Tornike Andriadze** [0:18:49]
+* [Gdevi #7 - Caucasus Con](https://youtu.be/YPePse_YSzo) - **Dato Kiknavelidze** [0:16:14]
+* [Gdevi #8 - Indiepocalypse](https://youtu.be/lf1YHFEyh1c) - **Nika Otiashvili** [0:56:52]
+* [Gdevi #8 - Modern C++](https://youtu.be/0ROoPusvGeQ) - **Tornike Gomareli** [0:53:56]
+* [Gdevi #8 - Ray Tracing თამაშებში](https://youtu.be/bDQ_0g2rM4Y) - **Irakli Koiava** [1:10:10]
 
 ##### Databases
 * [nosql](https://www.youtube.com/watch?v=d6D8SVJho40) by **Giorgi Jibladze** [0:28:36]
