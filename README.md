@@ -52,6 +52,10 @@
 * [უკუ გრადიენტის(backpropagation) მეთოდი ნეირონულ ქსელებში](https://www.facebook.com/amigoSmith/videos/10209576561784246/) by **Paata Gogishvili** [1:01:50]
 * [TensorFlow - Deep Learning in Real Life](https://youtu.be/C4qIsTKzBLs) by **Levan Tsinadze** [0:42:29]
 
+##### Toptal
+* [Toptal Tech Night Tbilisi](https://www.facebook.com/Terminal34/videos/250586705661081/) [2:20:15]
+
+
 ##### Uncategorized
 * [გადარჩი და გაიზარდე](https://youtu.be/HLpeU5VrSX8) by **George Mamaladze** [0:42:27]
 * [Team's value in Startup's success](https://youtu.be/03GhfNvqYcU) by **Sofo Gachechiladze** [0:50:03]
