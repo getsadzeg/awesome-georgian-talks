@@ -78,6 +78,10 @@
 * [ნეირონული ქსელები](https://www.youtube.com/watch?v=0hjLG6LLTFc) by **Paata Gogishvili** [0:33:39]
 * [ნეირონული ქსელების მიმოხილვა (neural networks)](https://www.youtube.com/watch?v=jcqLsFQ1k3A) by **Levan Tsinadze** [1:03:40]
 
+##### Toptal
+* [Toptal Tech Night Tbilisi](https://www.facebook.com/Terminal34/videos/250586705661081/) [2:20:15]
+
+
 ##### Uncategorized
 * [გადარჩი და გაიზარდე](https://youtu.be/HLpeU5VrSX8) by **George Mamaladze** [0:42:27]
 * [Team's value in Startup's success](https://youtu.be/03GhfNvqYcU) by **Sofo Gachechiladze** [0:50:03]
