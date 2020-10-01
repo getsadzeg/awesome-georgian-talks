@@ -9,6 +9,8 @@
 * [MapReduce](https://youtu.be/h_3WzSyxiUA) by **Salome Vakhtangadze** [0:26:28]
 * [.NET](https://www.youtube.com/watch?v=QBJ4IhVH18w) by **Alex Amniashvili,Tamuna Kapanadze,Shota Ioramashvili** [0:55:16]
 * [პროგრამირების ენები](https://www.youtube.com/watch?v=NxZuDglxcM0) by **Sandro Asatiani** [0:44:47]
+* [როგორ ამარტივებს DevOps ინჟინრის ცხოვრებას Event Sourcing](https://www.youtube.com/watch?v=qEyupL3hQ4U) by **George Mamaladze** [0:59:35]
+* [ჩემი ეჯაილ მოგზაურობა 5 ეტაპად](https://www.youtube.com/watch?v=h8W79ivnAPY) by **George Mamaladze** [0:24:37]
 
 ##### Web Development
 * [Node.JS](https://www.youtube.com/watch?v=GO74oM2Fb4o) by **Ioseb Dzmanashvili** [0:44:34]
