@@ -11,6 +11,7 @@
 * [პროგრამირების ენები](https://www.youtube.com/watch?v=NxZuDglxcM0) by **Sandro Asatiani** [0:44:47]
 * [როგორ ამარტივებს DevOps ინჟინრის ცხოვრებას Event Sourcing](https://www.youtube.com/watch?v=qEyupL3hQ4U) by **George Mamaladze** [0:59:35]
 * [ჩემი ეჯაილ მოგზაურობა 5 ეტაპად](https://www.youtube.com/watch?v=h8W79ivnAPY) by **George Mamaladze** [0:24:37]
+* [როგორ დავჰაკოთ ტექნიკური რეზიუმე - How To Hack Technical Resume](https://www.youtube.com/watch?v=fMYPHehQm3o) [01:40:15]
 
 ##### Web Development
 * [Node.JS](https://www.youtube.com/watch?v=GO74oM2Fb4o) by **Ioseb Dzmanashvili** [0:44:34]
